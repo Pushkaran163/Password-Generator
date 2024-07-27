@@ -19,8 +19,11 @@ User-Friendly Interface: Easy to use and integrate with other applications.
 # Technologies Used
 
 Java Programming Language
+
 Java Cryptography Architecture (JCA)
+
 Random Class in Java
+
 Java Security Libraries
 
 # How It Works
